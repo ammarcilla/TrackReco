@@ -9,7 +9,7 @@ Este proyecto es un Trabajo de Fin de Grado enfocado en la reconstrucción de tr
 
 El repositorio contiene archivos **Jupyter notebook (.ipynb)** que orquestan y combinan los scripts (**.py**) encargados de albergar la implementación. Se describe a continuación la jerarquía del proyecto y su contenido:
 
-- **TrackReco_TFG/**
+- **TrackReco/**
   - **data/**
     - **events/**: Contiene los eventos directamente descargados de TrackML Challenge [^1].
     - **dataset_graphs_real/**: Set de grafos para entrenamiento y validación generados con un filtro de momentos realista.
