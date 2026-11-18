@@ -3,6 +3,8 @@
 
 Este proyecto es un Trabajo de Fin de Grado enfocado en la reconstrucción de trayectorias de partículas en el detector CMS del LHC utilizando Redes Neuronales Gráficas (GNN). La metodología implementada aprovecha las propiedades estructurales de los datos de los hits en el tracker para construir grafos que representan posibles trayectorias, y entrena una GNN para predecir las conexiones entre hits y reconstruir así las trayectorias completas de las partículas. 
 
+This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 ---
 
 ## Estructura del repositorio
@@ -38,5 +40,3 @@ Se han incluido unos pocos archivos en **data/** para poder ejecutar el algoritm
 [^1]: [TrackML Challenge](https://www.kaggle.com/c/trackml-particle-identification)
 
 ---
-
-<a href="https://github.com/ammarcilla/TrackReco">TrackReco</a> © 2025 by <a href="https://github.com/ammarcilla">Andrés Martínez</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
