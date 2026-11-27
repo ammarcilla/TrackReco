@@ -32,6 +32,10 @@ El repositorio contiene archivos **Jupyter notebook (.ipynb)** que orquestan y c
 ### Nota
 
 Se han incluido unos pocos archivos en **data/** para poder ejecutar el algoritmo sin tener que descargar todo el dataset de TrackML [^1].
+---
+### Figuras
+<img width="905" height="745" alt="graficos_95" src="https://github.com/user-attachments/assets/48d6076e-3070-415c-8cd3-f938c16e6988" />
+<img width="975" height="638" alt="event_1645_pt_filter" src="https://github.com/user-attachments/assets/2e867527-b5be-4289-a35a-dc5dbdc07ace" />
 
 ---
 
