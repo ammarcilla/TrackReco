@@ -28,19 +28,24 @@ El repositorio contiene archivos **Jupyter notebook (.ipynb)** que orquestan y c
   - `geometry.ipynb`: Creación de las figuras mostradas en la memoria.
 
 ---
-
 ### Nota
 
 Se han incluido unos pocos archivos en **data/** para poder ejecutar el algoritmo sin tener que descargar todo el dataset de TrackML [^1].
+
 ---
+
 ### Figuras
-<img width="905" height="745" alt="graficos_95" src="https://github.com/user-attachments/assets/48d6076e-3070-415c-8cd3-f938c16e6988" />
-<img width="975" height="638" alt="event_1645_pt_filter" src="https://github.com/user-attachments/assets/2e867527-b5be-4289-a35a-dc5dbdc07ace" />
+
+<p align="center">
+  <img width="905" height="745" alt="graficos_95" src="https://github.com/user-attachments/assets/48d6076e-3070-415c-8cd3-f938c16e6988" />
+</p>
+
+<p align="center">
+  <img width="975" height="638" alt="event_1645_pt_filter" src="https://github.com/user-attachments/assets/2e867527-b5be-4289-a35a-dc5dbdc07ace" />
+</p>
 
 ---
 
 [^1]: [TrackML Challenge](https://www.kaggle.com/c/trackml-particle-identification)
 
 This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-
----
